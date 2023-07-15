@@ -1,0 +1,23 @@
+[
+  { "name": "Joker", "rating": 4, "release_date": "2019" },
+  { "name": "Deadpool", "rating": 5, "release_date": "2016" },
+  { "name": "The Matrix Reloaded", "rating": 4, "release_date": "2003" },
+  { "name": "Logan", "rating": 4, "release_date": "2019" },
+  { "name": "The Passion of the Christ", "rating": 4, "release_date": "2018" },
+  { "name": "The Hangover Part II", "rating": 3.4, "release_date": "2022" },
+  { "name": "Fifty Shades of Grey", "rating": 4.5, "release_date": "2001" },
+  { "name": "Ted", "rating": 4, "release_date": "2012" },
+  { "name": "American Sniper", "rating": 4, "release_date": "2011" },
+  { "name": "Detective Chinatown 2NA", "rating": 5.4, "release_date": "2019" },
+  { "name": "The Revenan", "rating": 4, "release_date": "2011" },
+  { "name": "The MermaidNA", "rating": 4.3, "release_date": "2019" },
+  { "name": "Terminator 2: Judgment Day", "rating": 4, "release_date": "2010" },
+  { "name": "Saving Private Ryan", "rating": 4.3, "release_date": "2019" },
+  { "name": "It Chapter Two", "rating": 4, "release_date": "2006" },
+  { "name": "The Hangover", "rating": 4.4, "release_date": "2006" },
+  { "name": "The Matrix", "rating": 4, "release_date": "1999" },
+  { "name": "Pretty Woman", "rating": 5, "release_date": "1997" },
+  { "name": "Lucy", "rating": 4, "release_date": "2014" },
+  { "name": "Gladiator", "rating": 2, "release_date": "2000" },
+  { "name": "The Last Samurai", "rating": 1, "release_date": "2003" }
+]
